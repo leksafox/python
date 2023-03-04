@@ -8,3 +8,6 @@ https://github.com/leksafox/python/tree/main/lesson2_220223
 
 ## Создана папка для решения ДЗ от 24.02.2023
 https://github.com/leksafox/python/tree/main/lesson3_240223
+
+## Создана папка для решения ДЗ от 27.02.2023
+https://github.com/leksafox/python/tree/main/lesson4_270223
