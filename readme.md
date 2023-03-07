@@ -14,3 +14,6 @@ https://github.com/leksafox/python/tree/main/lesson4_270223
 
 ## Создана папка для решения ДЗ от 28.02.2023
 https://github.com/leksafox/python/tree/main/lesson5_280223
+
+## Создана папка для решения ДЗ от 02.03.2023
+https://github.com/leksafox/python/tree/main/lesson6_020323
