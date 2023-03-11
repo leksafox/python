@@ -27,3 +27,5 @@ https://github.com/leksafox/python/tree/main/lesson8_060323
 ## Создана папка для решения ДЗ от 07.03.2023
 https://github.com/leksafox/python/tree/main/lesson9_070323
 
+## Создана папка для решения ДЗ от 09.03.2023
+https://github.com/leksafox/python/tree/main/lesson10_090323
