@@ -1,0 +1,25 @@
+lname = Alekseev
+fmane = Aleksey
+mnname = Alekseevich
+tel = 89501234567
+
+lname = Андреев
+fmane = Андрей
+mnname = -
+tel = 89501111111
+
+lname = Иванов
+fmane = Иван
+mnname = Иванович
+tel = 89502222222
+
+lname = Петров
+fmane = Петр
+mnname = Петрович
+tel = 89503333333
+
+lname = Sergeev
+fmane = Sergey
+mnname = -
+tel = 89504444444
+
